@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T07:18:46.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mi0mCUmLCsP7dOdkGcZy" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T07:27:02.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LIDAff-DWdg9PitFnK4O" version="20.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -186,6 +186,9 @@
             <mxPoint x="660" y="789.8823529411766" as="targetPoint" />
             <mxPoint x="470" y="790" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf3UkVC2cIuMgm6F0Fei-18" value="&lt;span style=&quot;color: rgb(97, 99, 104); font-family: Avenir, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;头部框架-实时购物车商品数和商品总数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="770" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
